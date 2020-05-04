@@ -1,0 +1,21 @@
+body{
+	background-color: #FAEBD7;
+}
+#judul{
+	font-family: sans-serif;
+	color: #8B4513;
+	text-align: center;
+	font-size: 40px;
+}
+.box{
+	background: #CD853F;
+	color: #FAEBD7;
+	font-family: Verdana;
+	font-size: 20px;
+}
+.boxx{
+	background: #FFA07A;
+	color: maroon;
+	font-family: cursive;
+	font-size: 20px;
+}	
